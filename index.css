@@ -2,8 +2,14 @@
 	font-family: "Poppins", sans-serif !important; 
 }
 
-#contact {
+
+
+/*#contact {
 	background: #005c99 ;
 	background-size: cover;
 	background-repeat: no-repeat;
+}*/
+
+#contact-text, #footer-form{
+	color: #ffffff;
 }
